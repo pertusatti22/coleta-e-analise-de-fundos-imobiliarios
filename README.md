@@ -18,16 +18,16 @@ Projeto criado para ministrar a aula de Python para a turma de Análise de Decis
 3. [ ] Configurar WebScrapping
 4. [ ] Coletar lista de Ticker dos FIIs
 5. [ ] Capturar dados
-  1. Valor Patrimonial(**VP**)
-  2. Cotação(**Cot**)
-  3. Patrimônio Líquido(**PL**)
-  4. Último Rendimento(**Rend**)
-  5. Dividend Yield(**DY**)
+  a. Valor Patrimonial(**VP**)
+  b. Cotação(**Cot**)
+  c. Patrimônio Líquido(**PL**)
+  d. Último Rendimento(**Rend**)
+  e. Dividend Yield(**DY**)
 6. [ ] Aplicar filtros
-  1. Valor patrimonial maior que a cotação
-  2. Patrimônio líquido maior que 1 Bi
-  3. Último rendimento maior que 0,70 centavos
-  4. Dividend Yield maior que 0.6%
+  a. Valor patrimonial maior que a cotação
+  b. Patrimônio líquido maior que 1 Bi
+  c. Último rendimento maior que 0,70 centavos
+  d. Dividend Yield maior que 0.6%
 7. [ ] Apresentar resultados
 
 🧭 **Propostas de melhorias**
