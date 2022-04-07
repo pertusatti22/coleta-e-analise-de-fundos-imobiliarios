@@ -1,4 +1,4 @@
-# coleta-e-analise-de-fundos-imobiliarios
+## coleta-e-analise-de-fundos-imobiliarios
 Author: Jackson Pertusatti
 Projeto criado para ministrar a aula de Python para a turma de Análise de Decisões 1 da Universidade de Brasília - UnB do prof. Edu Prista.
 
@@ -13,22 +13,25 @@ Projeto criado para ministrar a aula de Python para a turma de Análise de Decis
 
 📘 **Etapas**
 
-1. [ ] Instalar Dependências
-2. [ ] Carregar Bibliotecas
-3. [ ] Configurar WebScrapping
-4. [ ] Coletar lista de Ticker dos FIIs
-5. [ ] Capturar dados
+1. [x] Instalar Dependências
+2. [x] Carregar Bibliotecas
+3. [x] Configurar WebScrapping
+4. [x] Coletar lista de Ticker dos FIIs
+5. [x] Capturar dados
  > a. Valor Patrimonial(**VP**)
  > b. Cotação(**Cot**)
  > c. Patrimônio Líquido(**PL**)
  > d. Último Rendimento(**Rend**)
  > e. Dividend Yield(**DY**)
-6. [ ] Aplicar filtros
+6. [x] Aplicar filtros
  > a. Valor patrimonial maior que a cotação
  > b. Patrimônio líquido maior que 1 Bi
  > c. Último rendimento maior que 0,70 centavos
  > d. Dividend Yield maior que 0.6%
-7. [ ] Apresentar resultados
+7. [x] Apresentar resultados
+
+#### Resultado da aula:
+Foi possível mostrar o código quase completo, e o respositório foi atualizado para aqueles que querem continuar os estudos revisarem e melhorarem.
 
 🧭 **Propostas de melhorias**
 
