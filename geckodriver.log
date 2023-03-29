@@ -1,0 +1,195 @@
+1680108631484	geckodriver	INFO	Listening on 127.0.0.1:55694
+1680108634556	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55695" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileu6Qa3k"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680108634888	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680108634892	Marionette	INFO	Listening on port 55701
+WebDriver BiDi listening on ws://127.0.0.1:55695
+1680108635103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileu6Qa3k\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55695/devtools/browser/b24c9f95-c539-4417-8211-80e65bd25616
+1680108716372	geckodriver	INFO	Listening on 127.0.0.1:55839
+1680108719441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55840" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileGpQXWU"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680108719728	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680108719731	Marionette	INFO	Listening on port 55846
+WebDriver BiDi listening on ws://127.0.0.1:55840
+1680108720070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileGpQXWU\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55840/devtools/browser/08e2cf84-aa54-439d-8f87-1f5d17262992
+1680109202781	geckodriver	INFO	Listening on 127.0.0.1:63030
+1680109205838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63031" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileyGnaer"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680109206118	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680109206122	Marionette	INFO	Listening on port 63038
+WebDriver BiDi listening on ws://127.0.0.1:63031
+1680109206474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileyGnaer\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63031/devtools/browser/b97e9b1e-710a-402e-8941-53c2d054534c
+1680109435577	geckodriver	INFO	Listening on 127.0.0.1:51251
+1680109438653	mozrunner::runner	INFO	Running command: "C:\\P1680109438685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51255" "-no-remote" "-profile" "C:\\U*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference overridconsole.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by1680109438990	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680109438997	Marionette	INFO	Listening on port 51271
+WebDriver BiDi listening on ws://127.0.0.1:51252
+1680109439234	RemoteAgent	WARN	TLS certificate errors will b1680109439236	RemoteAgent	WA[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Teconsole.error: ({})
+DevTools listening on ws://127.0.0.1:51console.error: ({})
+DevTools listening on ws://127.0.0.1:51255/devtools/browser/35d1b027-7b04-4084-9e87-c6133f8eb465
+1680109471809	geckodriver	INFO	Listening on 127.0.0.1:51526
+1680109474880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51527" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileJeKLpM"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680109475166	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680109475169	Marionette	INFO	Listening on port 51534
+WebDriver BiDi listening on ws://127.0.0.1:51527
+1680109475514	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileJeKLpM\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51527/devtools/browser/bce50515-a5f0-4a33-8d31-b160af1a5722
+1680109536973	geckodriver	INFO	Listening on 127.0.0.1:51873
+1680109540028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51874" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileWHdpjk"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680109540317	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680109540321	Marionette	INFO	Listening on port 51879
+WebDriver BiDi listening on ws://127.0.0.1:51874
+1680109540663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileWHdpjk\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51874/devtools/browser/82e81161-9a74-47d6-926d-fd12ff41f680
+1680109942677	geckodriver	INFO	Listening on 127.0.0.1:52788
+1680109945727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52789" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileVeJoZ8"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680109946074	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680109946078	Marionette	INFO	Listening on port 52802
+WebDriver BiDi listening on ws://127.0.0.1:52789
+1680109946309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileVeJoZ8\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52789/devtools/browser/7f081ff5-eb3a-4fee-94c1-d3c625d9f000
+JavaScript error: https://sync.1rx.io/usersync2/rmpssp?sub=taboola&redir=https%3A%2F%2Fsync.taboola.com%2Fsg%unrulyrtbhv-network%2Frtb-h%2F%3Ftaboola_hm%3D%5BRX_UUID%5Dhttp%3A%2F%2Ftrc.taboola.com%2Fsg%2Funrulyrtbhv-network%2F1%2Frtb-h%2F%3Ftaboola_hm%3D%24%7BBUYER_ID%7D, line 1: SyntaxError: illegal character U+0001
+1680110065139	geckodriver	INFO	Listening on 127.0.0.1:53740
+1680110068202	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53741" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofile9A8QkN"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680110068529	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680110068533	Marionette	INFO	Listening on port 53747
+WebDriver BiDi listening on ws://127.0.0.1:53741
+1680110068761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofile9A8QkN\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53741/devtools/browser/d2691d4f-a7f8-47d5-be73-c4d32c03d83f
+1680110118695	geckodriver	INFO	Listening on 127.0.0.1:53926
+1680110121777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53927" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileBxMa6K"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680110122065	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680110122069	Marionette	INFO	Listening on port 53933
+WebDriver BiDi listening on ws://127.0.0.1:53927
+1680110122421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileBxMa6K\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53927/devtools/browser/a6c32978-7dc9-4703-a3e3-dd557b5a8ad1
+JavaScript error: https://sync.1rx.io/usersync2/rmpssp?sub=taboola&redir=https%3A%2F%2Fsync.taboola.com%2Fsg%unrulyrtbhv-network%2Frtb-h%2F%3Ftaboola_hm%3D%5BRX_UUID%5Dhttp%3A%2F%2Ftrc.taboola.com%2Fsg%2Funrulyrtbhv-network%2F1%2Frtb-h%2F%3Ftaboola_hm%3D%24%7BBUYER_ID%7D, line 1: SyntaxError: illegal character U+0001
+1680110445067	geckodriver	INFO	Listening on 127.0.0.1:54543
+1680110448141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54544" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofile63l3M7"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680110448472	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680110448475	Marionette	INFO	Listening on port 54554
+WebDriver BiDi listening on ws://127.0.0.1:54544
+1680110448690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofile63l3M7\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54544/devtools/browser/7d96e9bb-5129-4ae5-92c9-ef0bb2e8fa3d
+1680110476894	geckodriver	INFO	Listening on 127.0.0.1:54816
+1680110479969	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54817" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileE0dhmv"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680110480313	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680110480317	Marionette	INFO	Listening on port 54850
+WebDriver BiDi listening on ws://127.0.0.1:54817
+1680110480533	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileE0dhmv\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54817/devtools/browser/fafc7065-67e0-40b7-a742-9402e1cd6445
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
