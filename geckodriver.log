@@ -193,3 +193,451 @@ JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?
 JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
 JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
 JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+1680110657605	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+1680110847253	geckodriver	INFO	Listening on 127.0.0.1:49988
+1680110850328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49989" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileqJ8GWk"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680110850664	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680110850668	Marionette	INFO	Listening on port 49994
+WebDriver BiDi listening on ws://127.0.0.1:49989
+1680110850893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileqJ8GWk\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49989/devtools/browser/eb9cb4eb-da9b-4dbf-9135-8999bb79f45a
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://sync.1rx.io/usersync2/rmpssp?sub=taboola&redir=https%3A%2F%2Fsync.taboola.com%2Fsg%unrulyrtbhv-network%2Frtb-h%2F%3Ftaboola_hm%3D%5BRX_UUID%5Dhttp%3A%2F%2Ftrc.taboola.com%2Fsg%2Funrulyrtbhv-network%2F1%2Frtb-h%2F%3Ftaboola_hm%3D%24%7BBUYER_ID%7D, line 1: SyntaxError: illegal character U+0001
+JavaScript error: https://sync.1rx.io/usersync2/rmpssp?sub=taboola&redir=https%3A%2F%2Fsync.taboola.com%2Fsg%unrulyrtbhv-network%2Frtb-h%2F%3Ftaboola_hm%3D%5BRX_UUID%5Dhttp%3A%2F%2Ftrc.taboola.com%2Fsg%2Funrulyrtbhv-network%2F1%2Frtb-h%2F%3Ftaboola_hm%3D%24%7BBUYER_ID%7D, line 1: SyntaxError: illegal character U+0001
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Jackson\AppData\Local\Temp\rust_mozprofileqJ8GWk\bookmarkbackups\bookmarks-2023-03-29.jsonlz4) because it does not exist
+-debugging-port" "62691" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileg5B3wT"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680111002256	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680111002260	Marionette	INFO	Listening on port 62698
+WebDriver BiDi listening on ws://127.0.0.1:62691
+1680111002603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileg5B3wT\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62691/devtools/browser/64bc972f-589c-43d3-a3ff-a0db40de40d2
+1680111009635	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://sync.1rx.io/usersync2/rmpssp?sub=taboola&redir=https%3A%2F%2Fsync.taboola.com%2Fsg%unrulyrtbhv-network%2Frtb-h%2F%3Ftaboola_hm%3D%5BRX_UUID%5Dhttp%3A%2F%2Ftrc.taboola.com%2Fsg%2Funrulyrtbhv-network%2F1%2Frtb-h%2F%3Ftaboola_hm%3D%24%7BBUYER_ID%7D, line 1: SyntaxError: illegal character U+0001
+1680111119281	geckodriver	INFO	Listening on 127.0.0.1:56206
+1680111122358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56207" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofilepTEQvw"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680111122658	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680111122662	Marionette	INFO	Listening on port 56216
+WebDriver BiDi listening on ws://127.0.0.1:56207
+1680111122925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofilepTEQvw\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56207/devtools/browser/092cbd6e-0b1f-48f6-b75c-a1786d3f676a
+JavaScript error: https://cdn.taboola.com/libtrc/disqus-network/loader.js, line 34: TypeError: undefined is not a function
+1680111146601	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+1680111338444	geckodriver	INFO	Listening on 127.0.0.1:56789
+1680111341531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56790" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileu4c0fT"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680111341836	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680111341840	Marionette	INFO	Listening on port 56795
+WebDriver BiDi listening on ws://127.0.0.1:56790
+1680111342066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileu4c0fT\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56790/devtools/browser/add69231-f902-498d-9b71-ae87aa3ad1dd
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://sync.1rx.io/usersync2/rmpssp?sub=taboola&redir=https%3A%2F%2Fsync.taboola.com%2Fsg%unrulyrtbhv-network%2Frtb-h%2F%3Ftaboola_hm%3D%5BRX_UUID%5Dhttp%3A%2F%2Ftrc.taboola.com%2Fsg%2Funrulyrtbhv-network%2F1%2Frtb-h%2F%3Ftaboola_hm%3D%24%7BBUYER_ID%7D, line 1: SyntaxError: illegal character U+0001
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Jackson\AppData\Local\Temp\rust_mozprofileu4c0fT\bookmarkbackups\bookmarks-2023-03-29.jsonlz4) because it does not exist
+-debugging-port" "54596" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileDvmIKh"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680111401617	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680111401621	Marionette	INFO	Listening on port 54602
+WebDriver BiDi listening on ws://127.0.0.1:54596
+1680111401867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileDvmIKh\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54596/devtools/browser/040f6a06-7d4a-4844-865f-189c5e030435
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://sync.1rx.io/usersync2/rmpssp?sub=taboola&redir=https%3A%2F%2Fsync.taboola.com%2Fsg%unrulyrtbhv-network%2Frtb-h%2F%3Ftaboola_hm%3D%5BRX_UUID%5Dhttp%3A%2F%2Ftrc.taboola.com%2Fsg%2Funrulyrtbhv-network%2F1%2Frtb-h%2F%3Ftaboola_hm%3D%24%7BBUYER_ID%7D, line 1: SyntaxError: illegal character U+0001
+1680111535102	geckodriver	INFO	Listening on 127.0.0.1:55109
+1680111538176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55110" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileR8B5Lf"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680111538534	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680111538538	Marionette	INFO	Listening on port 55119
+WebDriver BiDi listening on ws://127.0.0.1:55110
+1680111538760	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileR8B5Lf\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55110/devtools/browser/4e20d492-27cd-48f0-bbd5-f9fdd3069673
+JavaScript error: https://cdn.taboola.com/libtrc/disqus-network/loader.js, line 44: TypeError: undefined is not a function
+JavaScript error: https://cdn.taboola.com/libtrc/disqus-network/loader.js, line 44: TypeError: undefined is not a function
+JavaScript error: https://cdn.taboola.com/libtrc/disqus-network/loader.js, line 44: TypeError: undefined is not a function
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+1680111660333	geckodriver	INFO	Listening on 127.0.0.1:55565
+1680111663397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55566" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileUesFNi"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680111663742	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680111663746	Marionette	INFO	Listening on port 55573
+WebDriver BiDi listening on ws://127.0.0.1:55566
+1680111663975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileUesFNi\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55566/devtools/browser/4f20dd13-b535-4154-acb7-2f8cc28fbff7
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+1680111742740	geckodriver	INFO	Listening on 127.0.0.1:53483
+1680111745825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53484" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofilepcMAe7"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680111746196	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680111746200	Marionette	INFO	Listening on port 53489
+WebDriver BiDi listening on ws://127.0.0.1:53484
+1680111746426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofilepcMAe7\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53484/devtools/browser/a89d65c7-2dd1-4e24-983a-11caa88c0a74
+1680111768529	geckodriver	INFO	Listening on 127.0.0.1:53557
+1680111771619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53558" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileI6RyCD"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680111771953	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680111771956	Marionette	INFO	Listening on port 53563
+WebDriver BiDi listening on ws://127.0.0.1:53558
+1680111772187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileI6RyCD\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53558/devtools/browser/e87e17b3-acb7-4d51-ab02-141e7f0fef67
+JavaScript error: https://cdn.taboola.com/libtrc/disqus-network/loader.js, line 44: TypeError: undefined is not a function
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+1680111807529	geckodriver	INFO	Listening on 127.0.0.1:53914
+1680111810603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53915" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofilefH4JzD"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680111810928	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680111810932	Marionette	INFO	Listening on port 53923
+WebDriver BiDi listening on ws://127.0.0.1:53915
+1680111811177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofilefH4JzD\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53915/devtools/browser/31020328-6232-46bd-9ead-d67851a9848c
+JavaScript error: https://cdn.taboola.com/libtrc/disqus-network/loader.js, line 44: TypeError: undefined is not a function
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+1680111877203	geckodriver	INFO	Listening on 127.0.0.1:54428
+1680111880274	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54429" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileXtCZX0"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680111880646	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680111880650	Marionette	INFO	Listening on port 54435
+WebDriver BiDi listening on ws://127.0.0.1:54429
+1680111880886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileXtCZX0\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54429/devtools/browser/22553767-fcf8-4d3d-bbf8-76ff1ce3a154
+JavaScript error: https://cdn.taboola.com/libtrc/disqus-network/loader.js, line 44: TypeError: undefined is not a function
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+1680111913062	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+1680111963023	geckodriver	INFO	Listening on 127.0.0.1:56950
+1680111966092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56951" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileY5uU0r"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680111966461	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680111966465	Marionette	INFO	Listening on port 56960
+WebDriver BiDi listening on ws://127.0.0.1:56951
+1680111966713	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileY5uU0r\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56951/devtools/browser/842d9630-1be0-43dd-a7df-520747f3d7b6
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+1680112318683	geckodriver	INFO	Listening on 127.0.0.1:53840
+1680112321761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53841" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileEZOADq"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680112322150	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680112322156	Marionette	INFO	Listening on port 53847
+WebDriver BiDi listening on ws://127.0.0.1:53841
+1680112322402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileEZOADq\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53841/devtools/browser/ecd79ab2-c7d8-4608-b009-b656d5df63b9
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://vidstat.taboola.com/vpaid/units/32_6_5/infra/cmTagWIDGET_ITEM.js, line 1: TypeError: this.iframe.contentWindow is null
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+1680112691529	geckodriver	INFO	Listening on 127.0.0.1:64398
+1680112694621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64399" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileovOjVL"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680112695030	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680112695034	Marionette	INFO	Listening on port 64404
+WebDriver BiDi listening on ws://127.0.0.1:64399
+1680112695277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileovOjVL\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64399/devtools/browser/25934a6a-241d-40e4-8872-5df2716f3ee3
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+1680112744072	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+1680112817491	geckodriver	INFO	Listening on 127.0.0.1:65028
+1680112820548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "65029" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileTBT1QZ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680112820924	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680112820928	Marionette	INFO	Listening on port 65038
+WebDriver BiDi listening on ws://127.0.0.1:65029
+1680112821176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileTBT1QZ\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:65029/devtools/browser/c68c6dbf-def1-4c42-aacc-6ae6d23f9187
+1680112833684	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
