@@ -270,7 +270,8 @@ JavaScript error: https://cdn.taboola.com/libtrc/disqus-network/loader.js, line 
 JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
 JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
 JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
-1680111338444	geckodriver	INFO	Listening on 127.0.0.1:56789
+Exiting due to channel error.
+Listening on 127.0.0.1:56789
 1680111341531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56790" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileu4c0fT"
 *** You are running in headless mode.
 console.warn: services.settings: Ignoring preference override of remote settings server
@@ -637,6 +638,154 @@ JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?
 JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
 JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
 JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+1680287920729	geckodriver	INFO	Listening on 127.0.0.1:53648
+1680287923797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53649" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofilepPDcGa"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680287924175	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680287924179	Marionette	INFO	Listening on port 53664
+WebDriver BiDi listening on ws://127.0.0.1:53649
+1680287924402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofilepPDcGa\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53649/devtools/browser/4f726b58-3882-4572-87b1-fc1345fec36f
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+1680287953130	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+1680287974364	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://vidstat.taboola.com/vpaid/units/32_6_5/infra/cmTagWIDGET_ITEM.js, line 1: TypeError: this.iframe.contentWindow is null
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+1680530381842	geckodriver	INFO	Listening on 127.0.0.1:60126
+1680530384926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60127" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofilePtDdUd"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680530385409	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680530385413	Marionette	INFO	Listening on port 60138
+WebDriver BiDi listening on ws://127.0.0.1:60127
+1680530385530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofilePtDdUd\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60127/devtools/browser/f975c9a3-3832-4398-82ea-9f2c1330a308
+JavaScript error: https://vidstat.taboola.com/vpaid/units/32_6_5/infra/cmTagWIDGET_ITEM.js, line 1: TypeError: this.iframe.contentWindow is null
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+1680786045345	geckodriver	INFO	Listening on 127.0.0.1:60044
+1680786048418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60045" "-no-remote" "-profile" "C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileSN5e2h"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680786048896	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680786048901	Marionette	INFO	Listening on port 60050
+WebDriver BiDi listening on ws://127.0.0.1:60045
+1680786049044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jackson\\AppData\\Local\\Temp\\rust_mozprofileSN5e2h\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60045/devtools/browser/7a4e4d6d-856e-48a7-9924-45e34af4fc6d
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined
+JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
 JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: i[0] is undefined
 JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: n[0] is undefined
 JavaScript error: https://fiis.com.br/wp-content/themes/fiis/dist/single.min.js?ver=1678827032, line 44: Error: TypeError: t.incomes_by_year[0] is undefined

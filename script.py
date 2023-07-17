@@ -61,7 +61,7 @@ for i in range(0, maximo):
     condicao1 = statement[1] > statement[2]
     # PL > 1 Bi
     condicao2 = 'B' in statement[3]
-    # Rend > 0,70 centavos
+    # Rend > 0,50 centavos
     condicao3 = statement[4] > 0.5
     # DY >= 0.6%
     condicao4 = statement[5] / 12 > 0.6
